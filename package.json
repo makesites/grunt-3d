@@ -19,14 +19,14 @@
   },
   "bugs": {
     "url": "https://github.com/makesites/grunt-3d/issues"
-  }, 
+  },
   "licenses": [
     {
       "type": "MIT License",
       "url": "http://www.makesites.org/licenses/MIT"
     }
-  ], 
-  "main": "./index.js",
+  ],
+  "main": "gruntfile.js",
   "engines": {
   	"node": "~0.8.x"
   },
