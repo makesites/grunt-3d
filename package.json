@@ -1,7 +1,7 @@
 {
   "name": "grunt-3d",
   "version": "0.0.1",
-  "description": "[WIP] Grunt tasks for compressing 3D models",
+  "description": "Grunt tasks for compressing 3D models",
   "author": "makesites",
   "contributors": [
     {
@@ -32,6 +32,7 @@
   },
   "dependencies": {
 	  "grunt": "0.4.x",
+          "grunt-three-obj": "x",
 	  "underscore" : "1.4.4"
   }
 }

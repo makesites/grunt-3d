@@ -12,6 +12,6 @@ module.exports = function (grunt) {
 	});
 	*/
 	
-	//grunt.loadNpmTasks('grunt-three-json');
+	grunt.loadNpmTasks('grunt-three-obj');
 	
 };
