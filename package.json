@@ -1,37 +1,37 @@
 {
-  "name": "grunt-3d",
-  "version": "0.1.0",
-  "description": "Grunt tasks for compressing 3D models",
-  "author": "makesites",
-  "contributors": [
-    {
-      "name": "Makis Tracend",
-      "email": "makis@makesit.es"
-    }
-  ],
-  "homepage": "http://makesites.org",
-  "keywords": [
-    "3d", "grunt", "task", "minify", "compress"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/makesites/grunt-3d"
-  },
-  "bugs": {
-    "url": "https://github.com/makesites/grunt-3d/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT License",
-      "url": "http://www.makesites.org/licenses/MIT"
-    }
-  ],
-  "main": "gruntfile.js",
-  "engines": {
-  	"node": "~0.8.x"
-  },
-  "dependencies": {
-	  "grunt": "0.4.x",
-          "grunt-three-obj": "x"
-  }
+	"name": "grunt-3d",
+	"version": "0.1.0",
+	"description": "Grunt tasks for compressing 3D models",
+	"author": "makesites",
+	"contributors": [
+		{
+		"name": "Makis Tracend",
+		"email": "makis@makesit.es"
+		}
+	],
+	"homepage": "http://makesites.org",
+	"keywords": [
+		"3d", "grunt", "task", "minify", "compress"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/makesites/grunt-3d"
+	},
+	"bugs": {
+		"url": "https://github.com/makesites/grunt-3d/issues"
+	},
+	"licenses": [
+		{
+		"type": "MIT License",
+		"url": "http://www.makesites.org/licenses/MIT"
+		}
+	],
+	"main": "gruntfile.js",
+	"engines": {
+		"node": "~0.8.x"
+	},
+	"dependencies": {
+		"grunt": "0.4.x",
+		"grunt-three-obj": "x"
+	}
 }
