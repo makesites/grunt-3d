@@ -1,6 +1,6 @@
 # Grunt 3D
 
-Grunt tasks for compressing 3D models in web-friendly formats
+Grunt tasks for compressing 3D models in web-friendly formats. For a more detailed introduction, read the [launch presentation](https://gist.github.com/tracend/5368499)
 
 ## Install
 
