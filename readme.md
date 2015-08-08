@@ -2,6 +2,10 @@
 
 Grunt tasks for compressing 3D models in web-friendly formats. For a more detailed introduction, read the [launch presentation](https://gist.github.com/tracend/5368499)
 
+Currently supports the OBJ -> Three.js JSON conversion, using [grunt-three-obj](https://github.com/makesites/grunt-three-obj).
+
+More formats can be added by creating additional grunt plugins.
+
 
 ## Features
 
@@ -10,14 +14,15 @@ Grunt tasks for compressing 3D models in web-friendly formats. For a more detail
 * Content agnostic
 * Modular
 
-Currently supports the OBJ -> Three.js JSON conversion, using [grunt-three-obj](https://github.com/makesites/grunt-three-obj). 
 
-More formats can be added by creating additional grunt plugins. 
+## Dependencies
+
+* [Grunt](http://gruntjs.com)
 
 
 ## Install
 
-Assuming Grunt.js is already available - simply add the dependency using npm:
+Using npm:
 ```
 npm install grunt-3d
 ```
@@ -40,7 +45,7 @@ grunt.registerTask('default', ['three_obj']);
 
 ## Credits 
 
-Created by Makis Tracend ( [@tracend](http://github.com/tracend) )
+Initiated by Makis Tracend ( [@tracend](http://github.com/tracend) )
 
 Distributed through [Makesites.org](http://makesites.org)
 
