@@ -1,6 +1,6 @@
 {
 	"name": "grunt-3d",
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"description": "Grunt tasks for compressing 3D models",
 	"author": "makesites",
 	"contributors": [
